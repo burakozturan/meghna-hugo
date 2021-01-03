@@ -100,12 +100,12 @@ name = "themefisher"
 pre = ""
 url = "https://themefisher.com/"
 weight = 8
-[Languages]
+[Languages.tr]
 contentDir = "content/turkish"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 dataDir = ""
 home = "Anasayfa"
-languageCode = ""
+languageCode = "trt"
 languageName = "turkce"
 weight = "2"
 [[Languages.menu.main]]
