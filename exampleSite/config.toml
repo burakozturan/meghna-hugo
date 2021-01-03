@@ -12,7 +12,7 @@ copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
-weight = "2"
+weight = "1"
 [[Languages.en.menu.main]]
 name = "About"
 pre = "#"
