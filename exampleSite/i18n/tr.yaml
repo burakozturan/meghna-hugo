@@ -1,0 +1,30 @@
+- id: blogTitle
+  translation: Son Gönderiler
+- id: readMore
+  translation: Daha Fazla Oku
+- id: viewAllPost
+  translation: Tümünü Görüntüle
+- id: share
+  translation: Paylaş
+- id: aboutAuthor
+  translation: Yazar Hakkında
+- id: authorsPosts
+  translation: Yazarın Tüm Yazıları
+- id: all
+  translation: Hepsi
+- id: about
+  translation: Hakkımızda
+- id: services
+  translation: Servislerimiz
+- id: portfolio
+  translation: Portfolyo
+- id: team
+  translation: Ekibimiz
+- id: pricing
+  translation: Fiyatlandırma
+- id: blog
+  translation: Blog
+- id: contact
+  translation: İletişim
+- id: themefisher
+  translation: Themefisher
