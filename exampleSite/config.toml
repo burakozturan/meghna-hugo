@@ -143,11 +143,6 @@ name = "İletişim"
 pre = "tr/#"
 url = "contact"
 weight = 7
-[[Languages.tr.menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
