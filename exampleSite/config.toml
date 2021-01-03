@@ -125,7 +125,7 @@ url = "portfolio"
 weight = 3
 [[Languages.tr.menu.main]]
 name = "team"
-pre = "#"
+pre = "tr/#"
 url = "team"
 weight = 4
 [[Languages.tr.menu.main]]
