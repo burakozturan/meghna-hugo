@@ -102,8 +102,8 @@ url = "https://themefisher.com/"
 weight = 8
 [Languages.tr]
 contentDir = "content/turkish"
-dataDir = "data"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+dataDir = "data"
 home = "Anasayfa"
 languageCode = "tr"
 languageName = "Tr"
@@ -111,7 +111,7 @@ weight = "1"
 [[Languages.tr.menu.main]]
 name = "Hakkımızda"
 pre = "#"
-url = "about"
+url = "tr/about"
 weight = 1
 [[Languages.tr.menu.main]]
 name = "Servislerimiz"
