@@ -1,4 +1,4 @@
-baseURL = "https://sitemiz.com"
+baseURL = "https://sitemiz.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
