@@ -103,11 +103,11 @@ weight = 8
 [Languages.tr]
 contentDir = "content/turkish"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-dataDir = "data"
+dataDir = ""
 home = "Anasayfa"
-languageCode = "tr"
-languageName = "Tr"
-weight = "1"
+languageCode = ""
+languageName = "turkce"
+weight = "2"
 [[Languages.tr.menu.main]]
 name = "Hakkımızda"
 pre = "#"
