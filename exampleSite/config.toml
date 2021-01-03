@@ -115,7 +115,7 @@ url = "about"
 weight = 1
 [[Languages.tr.menu.main]]
 name = "Servislerimiz"
-pre = "#"
+pre = "tr/#"
 url = "services"
 weight = 2
 [[Languages.tr.menu.main]]
