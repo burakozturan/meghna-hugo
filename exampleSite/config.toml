@@ -101,6 +101,7 @@ pre = ""
 url = "https://themefisher.com/"
 weight = 8
 [Languages.tr]
+baseURL = "https://sitemiz.netlify.com"
 contentDir = "content/turkish"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 dataDir = "data"
@@ -111,7 +112,7 @@ weight = "1"
 [[Languages.tr.menu.main]]
 name = "Hakkımızda"
 pre = "#"
-url = "tr/about"
+url = "about"
 weight = 1
 [[Languages.tr.menu.main]]
 name = "Servislerimiz"
