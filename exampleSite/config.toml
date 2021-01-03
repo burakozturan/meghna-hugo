@@ -57,7 +57,7 @@ weight = 8
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Accueil"
-languageCode = "fr"
+languageCode = ""
 languageName = "Franse"
 weight = 2
 [[Languages.fr.menu.main]]
