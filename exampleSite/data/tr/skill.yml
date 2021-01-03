@@ -18,7 +18,7 @@ skill:
     - name :  Sosyal Ağ Analizi
       percent : 80%
       
-    - name :  Duygu Analizi
+    - name :  Doğal Dil İşleme 
       percent : 95%
       
     # skill item loop

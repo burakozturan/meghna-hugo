@@ -1,17 +1,17 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Contact Us
+  title : Bizimle İrtibata Geçin
   subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  content : Buradaki irtibat bilgileri ve form aracılığyla bizimle iletişime geçebilirsiniz.
 
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+      info : "Boğaziçi, İstanbul, Turkey"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
+      info : "Phone: +90 500 000 00 00"
       
     - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
       info : "Fax: +880-31-000-000"
@@ -24,8 +24,8 @@ contact:
   contact_form:
     enable : true
     form_action : "#" #contact form works with https://formspree.io
-    name : "Your Name"
-    email : "Your Email"
-    subject : "Subject"
-    message : "Message"
-    submit : "Submit"
+    name : "İsminiz"
+    email : "Emailiniz"
+    subject : "Konu"
+    message : "Metin"
+    submit : "Gönder"

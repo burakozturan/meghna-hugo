@@ -3,8 +3,8 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : Biz veriden çözüm üreten  yeni nesil bir araştırma şirketiyiz.
+  content : "bıdı bıdı bıdı"
   feature_item : 
       # feature item loop
     - title : SEO Optimized

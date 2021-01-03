@@ -1,20 +1,20 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Our Services
+  title : Servislerimiz
   service_item :
     # service item loop
-    - name : WordPress Theme
+    - name : Kamuoyu Araştırması
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Sosyal medya siteleri üzerinden 
       
     # service item loop
-    - name : Responsive Design
+    - name : Araştırma Dizaynı
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Sosyal bilimler alan bilgimiz sayesinden bilimsel standardlara uygun 
       
     # service item loop
-    - name : Media &amp; Advertisement
+    - name : Socıa
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       

@@ -7,5 +7,5 @@ cta:
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
   button:
     enable : true
-    label : "Start a project with us"
+    label : "Bizimle proje başlatın"
     link : "#contact"
