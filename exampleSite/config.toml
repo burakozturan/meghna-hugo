@@ -140,7 +140,7 @@ url = "blog"
 weight = 6
 [[Languages.tr.menu.main]]
 name = "İletişim"
-pre = "#"
+pre = "tr/#"
 url = "contact"
 weight = 7
 [[Languages.tr.menu.main]]
