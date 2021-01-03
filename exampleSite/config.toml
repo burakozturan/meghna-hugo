@@ -110,7 +110,7 @@ languageName = "turkce"
 weight = "2"
 [[Languages.tr.menu.main]]
 name = "Hakkımızda"
-pre = "/"
+pre = "https://sitemiz.netlify.app/"
 url = "tr/#about"
 weight = 1
 [[Languages.tr.menu.main]]
