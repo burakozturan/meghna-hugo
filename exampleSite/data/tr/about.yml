@@ -4,11 +4,11 @@ about:
   title : Hakkımızda
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : Biz Creative
+    title : Biz 
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : Biz Professional
+    title : Biz Professionaliz
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
