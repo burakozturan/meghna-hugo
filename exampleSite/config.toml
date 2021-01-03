@@ -1,6 +1,5 @@
 baseURL = "https://sitemiz.netlify.com"
 defaultContentLanguage: en
-defaultContentLanguageInSubdir: true
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
