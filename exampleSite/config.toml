@@ -104,7 +104,7 @@ weight = 8
 contentDir = "content/turkish"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Anasayfa"
-languageCode = ""
+languageCode = "tr"
 languageName = "Tr"
 weight = "1"
 [[Languages.tr.menu.main]]
