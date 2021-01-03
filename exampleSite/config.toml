@@ -1,5 +1,5 @@
 baseURL = "https://sitemiz.netlify.com"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -12,7 +12,7 @@ copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
-weight = 1
+weight = "2"
 [[Languages.en.menu.main]]
 name = "About"
 pre = "#"
@@ -49,53 +49,6 @@ pre = "#"
 url = "contact"
 weight = 7
 [[Languages.en.menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
-[Languages.tr]
-contentDir = "content/turkish"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-home = "Anasayfa"
-languageCode = "tr"
-languageName = "Tr"
-weight = 1
-[[Languages.tr.menu.main]]
-name = "Hakkımızda"
-pre = "#"
-url = "about"
-weight = 1
-[[Languages.tr.menu.main]]
-name = "Servislerimiz"
-pre = "#"
-url = "services"
-weight = 2
-[[Languages.tr.menu.main]]
-name = "Portfolyo"
-pre = "#"
-url = "portfolio"
-weight = 3
-[[Languages.tr.menu.main]]
-name = "team"
-pre = "#"
-url = "team"
-weight = 4
-[[Languages.tr.menu.main]]
-name = "Fiyatlandırma"
-pre = "#"
-url = "pricing"
-weight = 5
-[[Languages.tr.menu.main]]
-name = "Blog"
-pre = "#"
-url = "blog"
-weight = 6
-[[Languages.tr.menu.main]]
-name = "İletişim"
-pre = "#"
-url = "contact"
-weight = 7
-[[Languages.tr.menu.main]]
 name = "themefisher"
 pre = ""
 url = "https://themefisher.com/"
@@ -143,6 +96,53 @@ pre = "#"
 url = "contact"
 weight = 7
 [[Languages.fr.menu.main]]
+name = "themefisher"
+pre = ""
+url = "https://themefisher.com/"
+weight = 8
+[Languages.tr]
+contentDir = "content/turkish"
+copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+home = "Anasayfa"
+languageCode = "tr"
+languageName = "Tr"
+weight = "1"
+[[Languages.tr.menu.main]]
+name = "Hakkımızda"
+pre = "#"
+url = "about"
+weight = 1
+[[Languages.tr.menu.main]]
+name = "Servislerimiz"
+pre = "#"
+url = "services"
+weight = 2
+[[Languages.tr.menu.main]]
+name = "Portfolyo"
+pre = "#"
+url = "portfolio"
+weight = 3
+[[Languages.tr.menu.main]]
+name = "team"
+pre = "#"
+url = "team"
+weight = 4
+[[Languages.tr.menu.main]]
+name = "Fiyatlandırma"
+pre = "#"
+url = "pricing"
+weight = 5
+[[Languages.tr.menu.main]]
+name = "Blog"
+pre = "#"
+url = "blog"
+weight = 6
+[[Languages.tr.menu.main]]
+name = "İletişim"
+pre = "#"
+url = "contact"
+weight = 7
+[[Languages.tr.menu.main]]
 name = "themefisher"
 pre = ""
 url = "https://themefisher.com/"
