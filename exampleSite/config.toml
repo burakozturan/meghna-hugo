@@ -105,7 +105,7 @@ contentDir = "content/turkish"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 dataDir = ""
 home = "Anasayfa"
-languageCode = "tr"
+languageCode = ""
 languageName = "turkce"
 weight = "2"
 [[Languages.tr.menu.main]]
