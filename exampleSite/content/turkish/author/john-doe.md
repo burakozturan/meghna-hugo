@@ -1,15 +1,13 @@
 ---
-title: "John Doe"
+title: "Burak Özturan"
 image: ""
-email: "email2@example.org"
+email: "burak.oezturan@uni-konstanz.de"
 social:
-  - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
     link : "#"
   - icon : "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
+    link : "https://twitter.com/burakozturan"
   - icon : "ti-github" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
+    link : "https://github.com/burakozturan"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+Burak Özturan Konstanz Üniversitesi'nde (Almanya) Veri Bilimi üzerine yüksek lisans yapmaktadır. Hesaplamalı sosyal bilimler metodları ve konularıyla araştırmalarını sürdürmektedir. Özellikle, makine öğrenmesi, doğal dil işleme, sosyal ağ analizi araştırmalarında kullandığı tekniklerdir. Lisans eğitimini Boğaziçi Üniversitesi Ekonomi bölümünü onur derecesiyle bitirerek tamamlamıştır. Araştırmaları dışında genel olarak güzel şeylerin peşindedir, resim, müzik, doğa.
