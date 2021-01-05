@@ -48,11 +48,6 @@ name = "Contact"
 pre = "#"
 url = "contact"
 weight = 7
-[[Languages.en.menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
@@ -115,39 +110,34 @@ url = "about"
 weight = 1
 [[Languages.tr.menu.main]]
 name = "Servislerimiz"
-pre = "#"
+pre = "tr/#"
 url = "services"
 weight = 2
 [[Languages.tr.menu.main]]
 name = "Portfolyo"
-pre = "#"
+pre = "tr/#"
 url = "portfolio"
 weight = 3
 [[Languages.tr.menu.main]]
 name = "team"
-pre = "#"
+pre = "tr/#"
 url = "team"
 weight = 4
 [[Languages.tr.menu.main]]
 name = "Fiyatlandırma"
-pre = "#"
+pre = "tr/#"
 url = "pricing"
 weight = 5
 [[Languages.tr.menu.main]]
 name = "Blog"
-pre = "#"
+pre = "tr/#"
 url = "blog"
 weight = 6
 [[Languages.tr.menu.main]]
 name = "İletişim"
-pre = "#"
+pre = "tr/#"
 url = "contact"
 weight = 7
-[[Languages.tr.menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
