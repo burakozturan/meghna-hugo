@@ -85,8 +85,8 @@ Toplam Twit Sayısı : **4,369,870**
 
 
 
-![COVID1](/images/blog/covid/covid.png)
-![COVID2](/images/blog/covid/covid-copy.png)
+
+![COVID2](/images/blog/covid/covid-1024.png)
 
 
 
