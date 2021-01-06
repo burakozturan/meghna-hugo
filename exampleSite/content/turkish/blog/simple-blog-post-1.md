@@ -10,4 +10,4 @@ description : "This is meta description"
 bır seyler bır seyler
 
 
-{{< https://twitter.com/bbcturkce/status/1344999339719077888?s=20 >}}
+
