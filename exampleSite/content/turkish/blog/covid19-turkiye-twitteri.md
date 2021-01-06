@@ -83,6 +83,9 @@ Toplam Twit Sayısı : **4,369,870**
 **Tablo 1: COVID hakkındaki en çok geçen kelimeler**
 
 ![COVID1](/static/images/blog/covid.png)
+![COVID1](covid.png)
+![COVID1](/static/covid.png)
+
 ![COVID2](/static/images/blog/covid/covid.png)
 ![COVID3](images/blog/covid/covid.png)
 ![COVID4](images/blog/covid.png)
