@@ -82,11 +82,13 @@ Toplam Twit Sayısı : **4,369,870**
 
 **Tablo 1: COVID hakkındaki en çok geçen kelimeler**
 
-![COVID](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Covid_karşılaştırma.png)
+![COVID](/static/images/blog/Covid_karşılaştırma.png)
 
 * Öncesinde, İran, İtalya ve Çin gibi vakaların yoğunlukla görüldüğü yerlere sıkça referans verilmiştir. Bu bize, Türkiye'deki ilk vakanın açıklanmasından önce de dış ülkelere yönelik gündemin virüs yoğunluklu olduğunu göstermektedir. Vaka açıklandıktan sonra ise Allah ve sağlık gibi kelimeler öne çıkmaktadır. Bu durum bize Türkçe yazan twitter kullanıcılarının süreci dini argümanlar ile açıkladığına dair bir fikir sunmaktadır. 
 
 **Tablo 2: Din hakkındaki en çok geçen kelimeler**
+
+![Example image](/static/image.png)
 
 ![Din no keywoord](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Din_comparison_no_keyword.png)
 
