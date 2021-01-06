@@ -97,31 +97,31 @@ Toplam Twit Sayısı : **4,369,870**
 
 ![Din no keywoord](/images/blog/covid/Din_comparison_no_keyword.png)
 
-* Daha önce şehit vurgusu yüksek iken, COVID-19 sonrası dönemde dua vurgusunun ön plana çıktığı görülmektedir. 
+>  Daha önce şehit vurgusu yüksek iken, COVID-19 sonrası dönemde dua vurgusunun ön plana çıktığı görülmektedir. 
 
 **Tablo 3: Politika hakkındaki anahtar kelimeler**
 
 ![politika](/images/blog/covid/Politikaaaaa_comparison.png)
 
-* Daha önce mülteci ve şehit vurguları öne çıkarken, sonrasında bilim ve sağlık vurgusu göze çarpmaktadir. 
+>  Daha önce mülteci ve şehit vurguları öne çıkarken, sonrasında bilim ve sağlık vurgusu göze çarpmaktadir. 
 
 **Tablo 4: Dezenformasyon hakkındaki anahtar kelimeler**
 
 ![Dezenformasyon](/images/blog/covid/Dezenformasyon_Karşılaştırma.png)
 
-* Komplo kelimesindeki bariz artış, Türkçe konuşan twitter kamuoyunun olası dezenformasyonlara açık olduğunu göstermektedir. 
+>  Komplo kelimesindeki bariz artış, Türkçe konuşan twitter kamuoyunun olası dezenformasyonlara açık olduğunu göstermektedir. 
 
 **Tablo 5: Ekonomi hakkındaki anahtar kelimeler**
 
 ![ekonomi](/images/blog/covid/Ekonomi_Karşılaştırma.png)
 
-* Daha önceleri doların durumu ve işsizlik gibi temalar öne çıkarken, sonrasında ise sokağa çıkma yasağı ve devlet temaları öne çıkmaktadır. Devlet kelimesinin ön plana çıkması sorunun çözümünün devlet elinde görüldüğüne dair bir fikir verebilir.
+>  Daha önceleri doların durumu ve işsizlik gibi temalar öne çıkarken, sonrasında ise sokağa çıkma yasağı ve devlet temaları öne çıkmaktadır. Devlet kelimesinin ön plana çıkması sorunun çözümünün devlet elinde görüldüğüne dair bir fikir verebilir.
 
 **Tablo 6: Ülkeler hakkindaki anahtar kelimeler**
 
 ![ulkeler](/images/blog/covid/Ulkeler_Karşılaştırma.png)
 
-* İlk donemde, Türkiye'nin son dönem dış politikasında önemli bir yer tutan Suriye, İdlib ve Rusya öne çıkmaktadır. Daha sonra ise, Almanya, AB, ABD ve İtalya gündemde öne çıkan kelimeler olarak göze çarpmaktadır. Batı'nın yoğunlukla ülke gündemine girmesi ayrıca çalışılması gerekli olan bir araştırma konusudur.
+>  İlk donemde, Türkiye'nin son dönem dış politikasında önemli bir yer tutan Suriye, İdlib ve Rusya öne çıkmaktadır. Daha sonra ise, Almanya, AB, ABD ve İtalya gündemde öne çıkan kelimeler olarak göze çarpmaktadır. Batı'nın yoğunlukla ülke gündemine girmesi ayrıca çalışılması gerekli olan bir araştırma konusudur.
 
 
 ## Gelecek Çalışmalar
