@@ -82,58 +82,7 @@ Toplam Twit Sayısı : **4,369,870**
 
 **Tablo 1: COVID hakkındaki en çok geçen kelimeler**
 
-![COVID](/static/images/blog/Covid_karşılaştırma.png)
+![COVID](/static/images/blog/covid/Covid_karşılaştırma.png)
 
 * Öncesinde, İran, İtalya ve Çin gibi vakaların yoğunlukla görüldüğü yerlere sıkça referans verilmiştir. Bu bize, Türkiye'deki ilk vakanın açıklanmasından önce de dış ülkelere yönelik gündemin virüs yoğunluklu olduğunu göstermektedir. Vaka açıklandıktan sonra ise Allah ve sağlık gibi kelimeler öne çıkmaktadır. Bu durum bize Türkçe yazan twitter kullanıcılarının süreci dini argümanlar ile açıkladığına dair bir fikir sunmaktadır. 
-
-**Tablo 2: Din hakkındaki en çok geçen kelimeler**
-
-![Example image](/static/image.png)
-
-![Din no keywoord](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Din_comparison_no_keyword.png)
-
-* Daha önce şehit vurgusu yüksek iken, COVID-19 sonrası dönemde dua vurgusunun ön plana çıktığı görülmektedir. 
-
-**Tablo 3: Politika hakkındaki anahtar kelimeler**
-
-![politika](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Politikaaaaa_comparison.png)
-
-* Daha önce mülteci ve şehit vurguları öne çıkarken, sonrasında bilim ve sağlık vurgusu göze çarpmaktadir. 
-
-**Tablo 4: Dezenformasyon hakkındaki anahtar kelimeler**
-
-![Dezenformasyon](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Dezenformasyon_Karşılaştırma.png)
-
-* Komplo kelimesindeki bariz artış, Türkçe konuşan twitter kamuoyunun olası dezenformasyonlara açık olduğunu göstermektedir. 
-
-**Tablo 5: Ekonomi hakkındaki anahtar kelimeler**
-
-![ekonomi](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Ekonomi_Karşılaştırma.png)
-
-* Daha önceleri doların durumu ve işsizlik gibi temalar öne çıkarken, sonrasında ise sokağa çıkma yasağı ve devlet temaları öne çıkmaktadır. Devlet kelimesinin ön plana çıkması sorunun çözümünün devlet elinde görüldüğüne dair bir fikir verebilir.
-
-**Tablo 6: Ülkeler hakkindaki anahtar kelimeler**
-
-![ulkeler](https://github.com/burakozturan/tria-covid19/blob/master/sonuç%20tabloları/Ulkeler_Karşılaştırma.png)
-
-* İlk donemde, Türkiye'nin son dönem dış politikasında önemli bir yer tutan Suriye, İdlib ve Rusya öne çıkmaktadır. Daha sonra ise, Almanya, AB, ABD ve İtalya gündemde öne çıkan kelimeler olarak göze çarpmaktadır. Batı'nın yoğunlukla ülke gündemine girmesi ayrıca çalışılması gerekli olan bir araştırma konusudur.
-
-
-## Gelecek Çalışmalar
-
-Bu veri seti çalışması öncelikli olarak gelecek çalışmalara zemin hazırlamak için tasarlanmıştır. Vakit sınırlılığından dolayı sadece en çok geçen kelimeler karşılaştırmalı olarak sunulmuş ve bunlar üzerinden görülebilecek temel süreklilik ve kırılmalar not alınmıştır. 
-
-Bundan sonraki süreçte;
-
-* Tweet içerikleri daha detaylı bir şekilde incelenilerek Türkçe konuşan Twitter kullanıcılarınn gündem değişiklikleri, kırılımları, ve devamlılıkları tespit edilebilir. 
-
-* 'Topic Modelling' gibi makine öğrenmesi metodları kullanılarak içerik hakkında farklı çalışmalar yapılabilir. 
-
-## Detaylı Bilgi İçin
-
-Bu veri seti hakkındaki teknik sorular ya da içeriğe dair sorularınız için aşağıdaki iletişim maillerine yazabilirsiniz.
-* Burak Özturan **burakoztrn@gmail.com**
-* Yunus Emre Tapan **tapanyemre@gmail.com**
-
-
 
