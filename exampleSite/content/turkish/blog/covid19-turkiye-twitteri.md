@@ -1,17 +1,13 @@
 ---
 title: "COVID-19 Pandemisi Sürecinde Türkiye Twitter Analizi"
 date: 2020-06-20T14:51:12+06:00
-image_webp: images/blog/blog-post-2.webp
-image: images/blog/blog-post-2.jpg
+image_webp: images/blog/blog-post-1.webp
+image: images/blog/blog-post-1.jpg
 author: Burak Özturan
 description : "This is meta description"
 ---
 
 
-
-bir şeyler bir şeyler oldu sonra böyle böyle böyle
-
-> Design is not just what it looks like and feels like. Design is how it works.
 
 # COVID-19 Twitter Veritabanı: Türkiye Örneklemi
 
