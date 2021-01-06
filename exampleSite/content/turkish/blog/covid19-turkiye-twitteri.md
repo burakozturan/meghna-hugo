@@ -85,10 +85,8 @@ Toplam Twit Sayısı : **4,369,870**
 
 
 
+![](/images/blog/covid/covid.png){width=250px}
 
-
-![COVID9](/images/blog/covid/covid.png){ width=50% }
-{{< imgresize covid "50x50" >}}
 
 
 * Öncesinde, İran, İtalya ve Çin gibi vakaların yoğunlukla görüldüğü yerlere sıkça referans verilmiştir. Bu bize, Türkiye'deki ilk vakanın açıklanmasından önce de dış ülkelere yönelik gündemin virüs yoğunluklu olduğunu göstermektedir. Vaka açıklandıktan sonra ise Allah ve sağlık gibi kelimeler öne çıkmaktadır. Bu durum bize Türkçe yazan twitter kullanıcılarının süreci dini argümanlar ile açıkladığına dair bir fikir sunmaktadır. 
