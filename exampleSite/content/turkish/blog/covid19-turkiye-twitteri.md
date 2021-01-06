@@ -83,15 +83,15 @@ Toplam Twit Sayısı : **4,369,870**
 **Tablo 1: COVID hakkındaki en çok geçen kelimeler**
 
 ![COVID1](/static/images/blog/covid.png)
-![COVID1](covid.png)
-![COVID1](static/covid.png)
-![COVID1](/static/covid.png)
+![COVID2](covid.png)
+![COVID3](static/covid.png)
+![COVID4](/static/covid.png)
 
-![COVID2](/static/images/blog/covid/covid.png)
-![COVID2](static/images/blog/covid/covid.png)
-![COVID3](images/blog/covid/covid.png)
-![COVID4](images/blog/covid.png)
-![COVID3](/images/blog/covid/covid.png)
-![COVID4](/images/blog/covid.png)
+![COVID5](/static/images/blog/covid/covid.png)
+![COVID6](static/images/blog/covid/covid.png)
+![COVID7](images/blog/covid/covid.png)
+![COVID8](images/blog/covid.png)
+![COVID9](/images/blog/covid/covid.png)
+![COVID10](/images/blog/covid.png)
 * Öncesinde, İran, İtalya ve Çin gibi vakaların yoğunlukla görüldüğü yerlere sıkça referans verilmiştir. Bu bize, Türkiye'deki ilk vakanın açıklanmasından önce de dış ülkelere yönelik gündemin virüs yoğunluklu olduğunu göstermektedir. Vaka açıklandıktan sonra ise Allah ve sağlık gibi kelimeler öne çıkmaktadır. Bu durum bize Türkçe yazan twitter kullanıcılarının süreci dini argümanlar ile açıkladığına dair bir fikir sunmaktadır. 
 
