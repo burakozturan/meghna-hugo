@@ -1,5 +1,5 @@
 ---
-title: "2020'de Türkiye’nin gündemi nasıl değişti?"
+title: "Türk- Amerikan Gündem "
 date: 2020-12-30T12:52:36+06:00
 image_webp: images/blog/blog-post-3.webp
 image: images/blog/blog-post-3.jpg
