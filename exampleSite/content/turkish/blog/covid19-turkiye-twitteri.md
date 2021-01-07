@@ -4,7 +4,8 @@ date: 2020-06-20T14:51:12+06:00
 image_webp: images/blog/blog-post-1.webp
 image: images/blog/blog-post-1.jpg
 author: Burak Özturan
-description : "This is meta description"
+description : "neler oluyor bize bize neler oluyor gulum"
+
 ---
 
 
@@ -50,13 +51,13 @@ Temalar, COVID-19 tartışmaları döneminde muhtemel olarak etkilenen veya etki
 
 Bu çalışma, temel olarak üç kod setine dayanarak yapılmıştır.
  * İlk olarak Twitter'dan veri çekebilmek için Python dilinde yazılmış [Twint](https://github.com/twintproject/twint) paketinden yararlanılmıştır.
- * Daha sonra, elde edilen verileri düzenlemek ve ID'lerini çıkarıp kamusallaştırmak işlemleri gerekli [kodlar](https://github.com/burakozturan/tria-covid19/blob/master/kodlar%20(codes)/data/data_birlestirme.ipynb) kullanılarak gerçekleştirilmiştir.
- * En son olarak, içeriğe dair ilk fikirlerimizi elde etmek için [programlamalı metin analizi kodları](https://github.com/burakozturan/tria-covid19/blob/master/kodlar%20(codes)/analiz/Covid_quantitative_text_analysis.ipynb)
+ * Daha sonra, elde edilen verileri düzenlemek ve ID'lerini çıkarıp kamusallaştırmak işlemleri gerekli [kodlar](https://github.com/burakozturan/css_covid19/blob/master/kodlar%20(codes)/data/data_birlestirme.ipynb) kullanılarak gerçekleştirilmiştir.
+ * En son olarak, içeriğe dair ilk fikirlerimizi elde etmek için [programlamalı metin analizi kodları](https://github.com/burakozturan/css_covid19/blob/master/kodlar%20(codes)/analiz/Covid_quantitative_text_analysis.ipynb)
 kullanılmıştır.
 
 ## Temel Çıktılar
 
-Bu bölümde ilk olarak tweetlerin temel istatistikleri sunulacaktır. Daha sonra, elde edilen tweetler üzerinden, ilk vakanın açıklanmasının öncesi ve sonrasında en çok geçen kelimeler veya anahtar kelimeler [tablolar](https://github.com/burakozturan/tria-covid19/tree/master/sonuç%20tabloları) halinde görselleştirilecektir. Önemli görülen devamlılık ve kırılmalar kısaca not edilecektir. Daha detaylı analizler bir sonraki çalışmanın araştırma konusu olacaktır.
+Bu bölümde ilk olarak tweetlerin temel istatistikleri sunulacaktır. Daha sonra, elde edilen tweetler üzerinden, ilk vakanın açıklanmasının öncesi ve sonrasında en çok geçen kelimeler veya anahtar kelimeler [tablolar](https://github.com/burakozturan/css_covid19/tree/master/sonuç%20tabloları) halinde görselleştirilecektir. Önemli görülen devamlılık ve kırılmalar kısaca not edilecektir. Daha detaylı analizler bir sonraki çalışmanın araştırma konusu olacaktır.
 
 ### Temel İstatistikler
 6 farklı temanın iki farklı zaman diliminde twitlerinin temel istatistikleri aşağıdaki gibidir:
@@ -133,5 +134,5 @@ Bundan sonraki süreçte;
 ## Detaylı Bilgi İçin
 
 Bu veri seti hakkındaki teknik sorular ya da içeriğe dair sorularınız için aşağıdaki iletişim maillerine yazabilirsiniz.
-* Burak Özturan **burakoztrn@gmail.com**
+* Burak Özturan **burak.oezturan@uni-konstanz.de**
 * Yunus Emre Tapan **tapanyemre@gmail.com**
