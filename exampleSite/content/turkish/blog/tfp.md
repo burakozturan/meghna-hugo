@@ -7,50 +7,48 @@ author: Burak Özturan; Yunus Emre Tapan
 description : "This is meta description"
 ---
 
- BBC Türkçe'nin talebiyle yapılan bu çalışma 2020'de Türkiye'nin gündemi ne kadar hızlı değişti, en çok hangi konular konuşuldu sorularının cevabını bulmak için gerçekleştirilmiştir.
+Amerika Birleşik Devletleri German Marshall Fonu (GMF) tarafından finanse edilen bu araştırma, hem Türkçe hem de İngilizce konuşan kullanıcıların Twitter'daki kamuoyu eğilimlerini analiz etmeyi amaçlamaktadır. Özellikle yeni teknikler kullanarak, Twitter kullanıcıları arasında Türk-Amerikan ilişkilerine dair hakim görüş ve algı değişimlerini incelenmektedir.
 
 
 
 
+## Bu Projenin altı aşaması vardır;
+
+* Sistem altyapısı kurulumu ve depolama
+* Veri setlerinin, raporların ve veri toplama protokollerinin belirlenmesi
+* Veri toplama ve güncelleme - ETL (Çıkar-Dönüştür-Yükle)
+* Modelleme ve Veri Görselleştirme
+* Veri Analizi ve Yorumlama
+* Yayınlama
 
 
-## Veri: BBC Türkçe twitter hesabının 2020 yılında attığı tüm tweetler
+>Burada şu ana kadar yaptıklarımızın bir özeti verilecektir:
 
-## Tarih Aralığı: 1 Ocak 2020 - 22 Aralık 2020
+## Sistem altyapısı kurulumu ve depolama
 
-### Aşamalar:
+Öncelikle Twitter'dan alınan verilerin depolanması için Amazon Web Servisleri kullanıldı. Veriler, ilgili bilimsel ve etik standartlara uygun olarak anonim olarak saklanmıştır. Verilerin sürekli olarak beslenmesi ve verilerde güncel tutulması amaçlanırken, bugüne kadar sadece ayrık veri toplama sağlandı.
 
-* İlk aşamada tweetler veri kazıma yoluyla elde edildi.
-* Elde edilen tweetler tarih bilgileri ile beraber alt kümelerde toplandı.
-* Veri setinin içinde en çok geçen 500 kelimelerin analizi yapıldı.
-* Bu analiz sonucunda 6 tema belirlendi
-* Bu temalar altında geçen kelimelerin haftalık olarak kullanılma frekansları çıkarıldı.
-* Bu frekanslar veri görselleştirilmesi için kullanıldı.
-* 'Bar race graph' metodu kullanılarak temalar görselleştirildi.
+## Veri setlerinin, raporların ve veri toplama protokollerinin belirlenmesi
+
+Twitter'daki elit kamuoyunu ölçmek için 1411 gerçek twitter hesabı tespit edildi. Hedeflenen twitter kullanıcılarını belirlemek için bu projeye özel yeni bir twitter hesabı oluşturulmuştur. Twitter kullanıcıları milliyetleri, meslekleri, cinsiyetleri, tartışma konuları ve kullanıcı türlerine göre sınıflandırıldı. Milliyetler için Türk, Amerikan ve diğerleri üç seçenektir. İşgal için siyasetçiler, akademisyenler, diplomat, gazeteci ve serbest çalışanlar kümelenme süreci için belirlendi. Tartışma konuları Türk Dış Politikası, Amerikan Dış Politikası ve Uluslararası İlişkiler olmak üzere üç ana başlıktır. Kullanıcı tipine göre kullanıcılar bireysel ve kurumsal hesap olarak sınıflandırılmıştır. Ayrıca konu ile ilgili olarak hem Türkçe hem de İngilizce dilleri için yaklaşık yüz kelimelik bir liste belirlenmiştir. Bu liste, veri kümemizi filtrelememize ve daraltmamıza yardımcı oldu. Nihai olarak üç farklı tweet veri dosyası elde ettik. Birincisi filtresiz, ikincisi yukarıda belirtilen listedeki kelimeleri içeren tweetler  ve üçüncüsü sadece Türk ve Amerikan kelimelerini içeren filtreli tweetler. Bu sınıflandırma, ana veri setimizdeki üç farklı alt grubu karşılaştırmamıza yardımcı oldu.
 
 
->Bu şekilde, yılın öne çıkan gündemleri karşılaştırmalı olarak gösterilmiş oldu.
+## Veri toplama ve güncelleme - ETL (Çıkar-Dönüştür-Yükle)
+
+Bu çalışma belirli aralıklara tekrarlanıp kamuoyundaki değişiklikler tesbit edilecektir.
+
+## Modelleme ve Veri Görselleştirme
+
+Veri modellemesi  denetimli öğrenme yöntemi olarak (supervised learning) duyarlılık analizi, denetimsiz bir öğrenme yöntemi (unsupervised learning) olarak konu modellemesi ve istatistiksel bir çıktı olarak metin frekans analizi  yapılarak gerçekleştirildi.
+
+## Veri toplama ve güncelleme - ETL (Çıkar-Dönüştür-Yükle)
+
+Modelleme aşamasında ön analizler yapılmıştır. Duygu analizi bize gelecekte odaklanmamız gereken önemli tarihleri belirlemeizde yardımcı oldu. Konu modelleme (topic modelling) bize ana tartışma konularını verdi. Frekans analizi ayrıca bize ana isimler, konularda tartışılan konuları belirlemize yardımcı oldu.
+
+## Yayınlama
+
+Proje sonunda yapılacak olan son aşamadır. 
 
 
 
-{{< youtube rOmfwDvv7CY >}}
 
-2020 yılına kuşkusuz Covid-19 salgını damgasını vurdu. Özellikle Mart ayından itibaren tüm haber gündemini domine eden salgın, diğer tüm ülkelerde olduğu gibi Türkiye'nin en çok konuştuğu haber başlığıydı. 
-
->Koronavirüs salgınıyla ilgili gündeme gelen ifadelere baktığımızda bu yıl en çok sosyal mesafe, maske, karantina, test ve vaka sayısı gibi ifadeler karşımıza çıkıyor.
-
->Covid-19'dan sonra en çok Donald Trump'la ilgili haberler öne çıkıyor. 
->Ardından Cumhurbaşkanı Erdoğan, altın, dolar gibi anahtar kelimeleri görüyoruz.
-
->Virüsün ortaya çıktığı Çin de hakkında en çok haber yapılan başlıklardan biri.
-
->2020 haberlerini ezici bir şekilde domine eden koronavirüsü gündem verilerinden ayıkladığımızda İran, Libya, Trump gibi başlıklara ulaşıyoruz.
-
->2020'ye İran'dan önemli bir haberle girmiştik. İran Devrim Muhafızları Kudüs Gücü Komutanı Kasım Süleymani, ABD'nin hava saldırısında öldürülmüştü.
-
->Yılın ilk haftalarında İran ile ABD arasındaki krize tanıklık ettik.
-
->Covid-19 dışında kadın cinayetleri, ekonomideki sıkıntıları, ABD'de Donald Trump devrini kapatıp Joe Biden dönemini açan seçimleri konuştuk.
-
-
-Haber metni için lütfen [tıklayın](https://www.bbc.com/turkce/haberler-turkiye-55491247?at_custom2=twitter&at_custom3=BBC+Turkce&at_medium=custom7&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom4=7812A50A-4C0F-11EB-96A8-3DEA15F31EAE)
