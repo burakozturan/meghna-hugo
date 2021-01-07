@@ -10,11 +10,8 @@ description : "neler oluyor bize bize neler oluyor gulum"
 
 
 
-# COVID-19 Twitter Veritabanı: Türkiye Örneklemi
 
-## Araştırmanın Amacı ve İçeriği
-
-Bu veri seti çalışması, 2020 yılının ilk aylarından beri dünyada etkisini gösteren COVID-19 virüsünün Türkçe konuşan Twitter kullanıcılarının gündemine tesirini tespit etmek amacıyla kurulmuştur.  Bu çalışma halihazırda birçok dilde hazırlanan kapsamlı bir Twitter veri setinin [#COVID-19: The First Public Coronavirus Twitter Dataset](https://github.com/echen102/COVID-19-TweetIDs) tamamlayacısı olarak görülebilir. Böyle bir çalışmanın şimdiye kadar yapılmamış olması bizi motive eden önemli bir nedendir. Yukarıda belirtilen çalışmada ise kelime havuzunun dar olması ve temalara göre ayrılmaması, Türkçe tweet sayısının az olması, Türkçe tweetleri ayıklamaktaki zorluklar yeni bir veri seti çıkarmayı zorunlu hale getirmiştir. 
+Bu  çalışma, 2020 yılının ilk aylarından beri dünyada etkisini gösteren COVID-19 virüsünün Türkçe konuşan Twitter kullanıcılarının gündemine tesirini tespit etmek amacıyla kurulmuştur.  Bu çalışma halihazırda birçok dilde hazırlanan kapsamlı bir Twitter veri setinin [#COVID-19: The First Public Coronavirus Twitter Dataset](https://github.com/echen102/COVID-19-TweetIDs) tamamlayacısı olarak görülebilir. Böyle bir çalışmanın şimdiye kadar yapılmamış olması bizi motive eden önemli bir nedendir. Yukarıda belirtilen çalışmada ise kelime havuzunun dar olması ve temalara göre ayrılmaması, Türkçe tweet sayısının az olması, Türkçe tweetleri ayıklamaktaki zorluklar yeni bir veri seti çıkarmayı zorunlu hale getirmiştir. 
 
 "COVID-19 Twitter Veritabanı: Türkiye Örneklemi" adlı bu çalışmada tweetler hem temalara göre ayrı ayrı elde edilmiş hem de açıklanan ilk vakanın öncesi ve sonrasındaki gündemler ayrı ayrı tespit edilmiştir. Araştırma, aynı zamanda, Türkçe yazan Twitter kullanıcılarının Ortadoğu ve Avrupa'da vakaların artmasıyla beraber koronavirüsü gündemlerine aldıklarını ve Türkiye'de ilk vakanın açıklanmasıyla birlikte hem dini hem ekonomik hem politik hem de dış ülkeler hakkındaki gündemlerinde kırılmalar olduğunu varsaymaktadır. Bu raporda, bahsi geçen kırılmaları göstermek için en çok geçen kelimeler üzerinden bir ön analiz sunulacaktır. 
 
