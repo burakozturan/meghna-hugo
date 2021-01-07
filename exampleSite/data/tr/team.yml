@@ -10,6 +10,8 @@ team:
       designation : CEO/ Co-Founder
       content : Hesaplamalı sosyal bilimler sevdalısı.
       social :
+        - icon: ti-dribbble
+          link: /author/burak-özturan/
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
           link : "https://twitter.com/burakozturan"
         - icon : ti-github
@@ -23,6 +25,8 @@ team:
       designation : CEO/ Co-Founder
       content : CSS Türkiye Distributörü
       social :
+        - icon: ti-dribbble
+          link: /author/yunus-emre-tapan/      
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
           link : "https://twitter.com/YEmreTapan"
         - icon : ti-github
