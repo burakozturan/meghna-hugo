@@ -1,5 +1,5 @@
 ---
-title: "Yunus E. Tapan Ilk post"
+title: "2020'de Türkiye’nin gündemi nasıl değişti?"
 date: 2020-30-12T12:52:36+06:00
 image_webp: images/blog/blog-post-3.webp
 image: images/blog/blog-post-3.jpg
@@ -26,6 +26,9 @@ Covid-19 dışında kadın cinayetleri, ekonomideki sıkıntıları, ABD'de Dona
 
 Koronavirüs salgınıyla ilgili gündeme gelen ifadelere baktığımızda bu yıl en çok sosyal mesafe, maske, karantina, test ve vaka sayısı gibi ifadeler karşımıza çıkıyor.
 
+{{< youtube rOmfwDvv7CY >}}
+
 
 
 ![bbc](/images/blog/bbc/yet-bbc.mp4)
+![COVID2](/images/blog/covid/covid-1024.png)
