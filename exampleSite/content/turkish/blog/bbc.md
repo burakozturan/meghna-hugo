@@ -1,6 +1,6 @@
 ---
 title: "2020'de Türkiye’nin gündemi nasıl değişti?"
-date: 2020-30-12T12:52:36+06:00
+date: 2020-12-30T12:52:36+06:00
 image_webp: images/blog/blog-post-3.webp
 image: images/blog/blog-post-3.jpg
 author: Yunus Emre Tapan
@@ -12,21 +12,21 @@ description : "This is meta description"
 
 
 
-###Metodoloji:
+### Metodoloji:
 
-##Veri: BBC Türkçe twitter hesabının 2020 yılında attığı tüm tweetler
+## Veri: BBC Türkçe twitter hesabının 2020 yılında attığı tüm tweetler
 
-##Tarih Aralığı: 1 Ocak 2020 - 22 Aralık 2020
+## Tarih Aralığı: 1 Ocak 2020 - 22 Aralık 2020
 
-###Aşamalar:
+### Aşamalar:
 
-*İlk aşamada tweetler veri kazıma yoluyla elde edildi.
-*Elde edilen tweetler tarih bilgileri ile beraber alt kümelerde toplandı.
-*Veri setinin içinde en çok geçen 500 kelimelerin analizi yapıldı.
-*Bu analiz sonucunda 6 tema belirlendi
-*Bu temalar altında geçen kelimelerin haftalık olarak kullanılma frekansları çıkarıldı.
-*Bu frekanslar veri görselleştirilmesi için kullanıldı.
-*'Bar race graph' metodu kullanılarak temalar görselleştirildi.
+* İlk aşamada tweetler veri kazıma yoluyla elde edildi.
+* Elde edilen tweetler tarih bilgileri ile beraber alt kümelerde toplandı.
+* Veri setinin içinde en çok geçen 500 kelimelerin analizi yapıldı.
+* Bu analiz sonucunda 6 tema belirlendi
+* Bu temalar altında geçen kelimelerin haftalık olarak kullanılma frekansları çıkarıldı.
+* Bu frekanslar veri görselleştirilmesi için kullanıldı.
+* 'Bar race graph' metodu kullanılarak temalar görselleştirildi.
 
 
 >Bu şekilde, yılın öne çıkan gündemleri karşılaştırmalı olarak gösterilmiş oldu.
@@ -53,5 +53,4 @@ description : "This is meta description"
 >Covid-19 dışında kadın cinayetleri, ekonomideki sıkıntıları, ABD'de Donald Trump devrini kapatıp Joe Biden dönemini açan seçimleri konuştuk.
 
 
-
-![Haber Metni İçin](https://www.bbc.com/turkce/haberler-turkiye-55491247?at_custom2=twitter&at_custom3=BBC+Turkce&at_medium=custom7&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom4=7812A50A-4C0F-11EB-96A8-3DEA15F31EAE)
+[Haber Metni İçin](https://www.bbc.com/turkce/haberler-turkiye-55491247?at_custom2=twitter&at_custom3=BBC+Turkce&at_medium=custom7&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom4=7812A50A-4C0F-11EB-96A8-3DEA15F31EAE)
