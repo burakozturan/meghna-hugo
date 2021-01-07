@@ -3,7 +3,7 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : Biz veriden çözüm üreten  yeni nesil bir araştırma şirketiyiz.
+  title : Biz veriden çözüm üreten yeni nesil bir online araştırma kuruluşuyuz.
   content : "bıdı bıdı bıdı"
   feature_item : 
       # feature item loop
