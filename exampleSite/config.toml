@@ -114,20 +114,15 @@ pre = "tr/#"
 url = "team"
 weight = "2"
 [[Languages.tr.menu.main]]
-name = "Uzmanlıklarımız"
-pre = "tr/#"
-url = "skill"
-weight = "3"
-[[Languages.tr.menu.main]]
 name = "Çalışmalarımız"
 pre = "tr/#"
 url = "blog"
-weight = "4"
+weight = "3"
 [[Languages.tr.menu.main]]
 name = "İletişim"
 pre = "tr/#"
 url = "contact"
-weight = 7
+weight = "4"
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
