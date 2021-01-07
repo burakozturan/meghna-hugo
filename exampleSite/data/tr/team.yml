@@ -4,31 +4,6 @@ team:
   title : Ekibimiz
   team_member :
     # team member loop
-    - name : Burak Özturan
-      image_webp : images/team/team-1.webp
-      image : images/team/team-1.jpg
-      designation : CEO/ Co-Founder
-      content : Hesaplamalı sosyal bilimler sevdalısı.
-      social :
-        - icon: ti-dribbble
-          link: tr/author/burak-özturan/ #slashe gerek var mi?
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "https://twitter.com/burakozturan"
-        - icon : ti-github
-          link : "https://github.com/burakozturan"
-
-    - name : Burak Özturan
-      image_webp : images/team/team-1.webp
-      image : images/team/team-1.jpg
-      designation : CEO/ Co-Founder
-      content : Hesaplamalı sosyal bilimler sevdalısı.
-      social :
-        - icon: ti-dribbble
-          link: /tr/author/burak-özturan/ #slashe gerek var mi?
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "https://twitter.com/burakozturan"
-        - icon : ti-github
-          link : "https://github.com/burakozturan"
 
 
     - name : Burak Özturan
@@ -38,21 +13,7 @@ team:
       content : Hesaplamalı sosyal bilimler sevdalısı.
       social :
         - icon: ti-dribbble
-          link: /author/burak-özturan/ #slashe gerek var mi?
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "https://twitter.com/burakozturan"
-        - icon : ti-github
-          link : "https://github.com/burakozturan"
-
-
-    - name : Burak Özturan
-      image_webp : images/team/team-1.webp
-      image : images/team/team-1.jpg
-      designation : CEO/ Co-Founder
-      content : Hesaplamalı sosyal bilimler sevdalısı.
-      social :
-        - icon: ti-dribbble
-          link: author/burak-özturan/ #slashe gerek var mi?
+          link: /tr/author/burak-özturan/ #turkce icin bu,  #bu da ingilizce  icin/author/burak-özturan/ 
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
           link : "https://twitter.com/burakozturan"
         - icon : ti-github
@@ -68,7 +29,7 @@ team:
       content : CSS Türkiye Distributörü
       social :
         - icon: ti-dribbble
-          link: tr/author/yunus-emre-tapan/      
+          link: /tr/author/yunus-emre-tapan/      
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
           link : "https://twitter.com/YEmreTapan"
         - icon : ti-github
