@@ -7,7 +7,7 @@ author: Yunus Emre Tapan
 description : "This is meta description"
 ---
 
- BBC Türkçe'nin talebiyle yapılan bu çalışma 2020'de Türkiye'nin gündemi ne kadar hızlı değişti, en çok hangi konular konuşuldu sorularının cevabını bulmak için gerçekleştirilmiştir. \
+ BBC Türkçe'nin talebiyle yapılan bu çalışma 2020'de Türkiye'nin gündemi ne kadar hızlı değişti, en çok hangi konular konuşuldu sorularının cevabını bulmak için gerçekleştirilmiştir. 
 
 
 {{< tweet 1344999339719077888 >}}
@@ -19,7 +19,7 @@ description : "This is meta description"
 
 
 
-\
+
 ## Veri: BBC Türkçe twitter hesabının 2020 yılında attığı tüm tweetler
 
 ## Tarih Aralığı: 1 Ocak 2020 - 22 Aralık 2020
