@@ -7,7 +7,7 @@ author: Yunus Emre Tapan
 description : "This is meta description"
 ---
 
- BBC Türkçe'nin talebiyle yapılan bu çalışma 2020'de Türkiye'nin gündemi ne kadar hızlı değişti, en çok hangi konular konuşuldu sorularının cevabını bulmak için gerçekleştirilmiştir.
+ BBC Türkçe'nin talebiyle yapılan bu çalışma 2020'de Türkiye'nin gündemi ne kadar hızlı değişti, en çok hangi konular konuşuldu sorularının cevabını bulmak için gerçekleştirilmiştir. \
 
 
 {{< tweet 1344999339719077888 >}}
@@ -17,6 +17,9 @@ description : "This is meta description"
 
 
 
+
+
+\
 ## Veri: BBC Türkçe twitter hesabının 2020 yılında attığı tüm tweetler
 
 ## Tarih Aralığı: 1 Ocak 2020 - 22 Aralık 2020
@@ -36,7 +39,7 @@ description : "This is meta description"
 
 
 
-{{< youtube rOmfwDvv7CY >}}
+
 
 2020 yılına kuşkusuz Covid-19 salgını damgasını vurdu. Özellikle Mart ayından itibaren tüm haber gündemini domine eden salgın, diğer tüm ülkelerde olduğu gibi Türkiye'nin en çok konuştuğu haber başlığıydı. 
 
