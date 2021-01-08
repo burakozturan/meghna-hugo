@@ -12,6 +12,9 @@ description : "This is meta description"
 
 
 
+{{< tweet bbcturkce/status/1344999339719077888?s=20 >}}
+
+
 
 
 ## Veri: BBC Türkçe twitter hesabının 2020 yılında attığı tüm tweetler

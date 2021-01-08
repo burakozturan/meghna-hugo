@@ -136,6 +136,9 @@ Bundan sonraki süreçte;
 [![](http://img.youtube.com/vi/qPfpWBgZBM8/0.jpg)](http://www.youtube.com/watch?v=qPfpWBgZBM8 "COVID-19 Türkiye Twitter Analizi")
 
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/qPfpWBgZBM8?start=2784"  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
 
 
 ## Detaylı Bilgi İçin
