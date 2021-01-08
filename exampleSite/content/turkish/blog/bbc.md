@@ -17,8 +17,9 @@ BBC haber metni için lütfen [tıklayın](https://www.bbc.com/turkce/haberler-t
 
 Çalışmanın anlatıldığı yayını aşağıdaki videodan izleyebilirsiniz.
 
+{{< youtube id=Vnuho4ebdz0?start=60" autoplay="false">}}
 
-{{< youtubestartend Vnuho4ebdz 60 300 >}}
+
 
 
 
