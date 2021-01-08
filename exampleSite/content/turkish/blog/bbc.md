@@ -12,9 +12,13 @@ description : "This is meta description"
 
 {{< tweet 1344999339719077888 >}}
 
+BBC haber metni için lütfen [tıklayın](https://www.bbc.com/turkce/haberler-turkiye-55491247?at_custom2=twitter&at_custom3=BBC+Turkce&at_medium=custom7&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom4=7812A50A-4C0F-11EB-96A8-3DEA15F31EAE)
 
 
+Çalışmanın anlatıldığı yayını aşağıdaki videodan izleyebilirsiniz.
 
+
+{{< youtube Vnuho4ebdz >}}
 
 
 
@@ -59,4 +63,3 @@ description : "This is meta description"
 >Covid-19 dışında kadın cinayetleri, ekonomideki sıkıntıları, ABD'de Donald Trump devrini kapatıp Joe Biden dönemini açan seçimleri konuştuk.
 
 
-Haber metni için lütfen [tıklayın](https://www.bbc.com/turkce/haberler-turkiye-55491247?at_custom2=twitter&at_custom3=BBC+Turkce&at_medium=custom7&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom4=7812A50A-4C0F-11EB-96A8-3DEA15F31EAE)
