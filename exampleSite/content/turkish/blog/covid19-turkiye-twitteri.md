@@ -133,7 +133,9 @@ Bundan sonraki süreçte;
 
 > Ödül alan çalışmamızın sunumu buradan izleyebilirsiniz.
 
-{{< youtube qPfpWBgZBM8?start=2784>}}
+[![](http://img.youtube.com/vi/qPfpWBgZBM8/0.jpg)](http://www.youtube.com/watch?v=qPfpWBgZBM8 "COVID-19 Türkiye Twitter Analizi")
+
+
 
 
 ## Detaylı Bilgi İçin
