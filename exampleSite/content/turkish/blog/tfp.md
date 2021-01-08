@@ -11,6 +11,11 @@ Amerika Birleşik Devletleri German Marshall Fonu (GMF) tarafından finanse edil
 
 
 
+Projenin interaktif dashboardu için lütfen [tıklayın](http://tfpbarometer.com/interactive-dashboard/)
+
+
+
+
 
 ## Bu Projenin altı aşaması vardır;
 
