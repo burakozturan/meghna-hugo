@@ -1,8 +1,8 @@
 ---
 title: "2020'de Türkiye’nin gündemi nasıl değişti?"
 date: 2020-12-30T12:52:36+06:00
-image_webp: images/blog/blog-post-3.webp
-image: images/blog/blog-post-3.jpg
+image_webp: blog-post-4.webp
+image: blog-post-4.jpg
 author: Yunus Emre Tapan
 description : "This is meta description"
 ---
@@ -10,7 +10,7 @@ description : "This is meta description"
  BBC Türkçe'nin talebiyle yapılan bu çalışma 2020'de Türkiye'nin gündemi ne kadar hızlı değişti, en çok hangi konular konuşuldu sorularının cevabını bulmak için gerçekleştirilmiştir.
 
 
-
+{{< tweet 1344999339719077888 >}}
 
 
 
