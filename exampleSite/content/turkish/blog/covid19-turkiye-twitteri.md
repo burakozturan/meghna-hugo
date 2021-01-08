@@ -15,6 +15,15 @@ Bu  çalışma, 2020 yılının ilk aylarından beri dünyada etkisini gösteren
 
 "COVID-19 Twitter Veritabanı: Türkiye Örneklemi" adlı bu çalışmada tweetler hem temalara göre ayrı ayrı elde edilmiş hem de açıklanan ilk vakanın öncesi ve sonrasındaki gündemler ayrı ayrı tespit edilmiştir. Araştırma, aynı zamanda, Türkçe yazan Twitter kullanıcılarının Ortadoğu ve Avrupa'da vakaların artmasıyla beraber koronavirüsü gündemlerine aldıklarını ve Türkiye'de ilk vakanın açıklanmasıyla birlikte hem dini hem ekonomik hem politik hem de dış ülkeler hakkındaki gündemlerinde kırılmalar olduğunu varsaymaktadır. Bu raporda, bahsi geçen kırılmaları göstermek için en çok geçen kelimeler üzerinden bir ön analiz sunulacaktır. 
 
+
+
+Ödüllü projemizin sunumunu bu videodan takip edebilirsiniz.
+
+{{< youtube id="qPfpWBgZBM8?start=2789" autoplay="false">}}
+
+
+
+
 ## Araştırmanın Dizaynı
 
 Aşağıda bu araştırmanın dizaynı, içeriği ve kullanılan kodlar özetlenecektir. Aynı zamanda, bu veri setini kullanarak yürütülebilecek gelecek çalışmalara bazı tavsiyeler sıralanacaktır. İlk olarak, anahtar kelimeler temalara göre çıkartılmıştır. Daha sonra, tarih aralığı belirlenip tweetler çekilmiştir. Elde edilen tweetler, Twitter'ın [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy) ile uyumlu olarak ID'ler halinde herkese açık olarak depolanmıştır. En sonunda ise programlamalı metin analizi teknikleri kullanılarak tweetler üzerinden temel çıktılar alınıp takdim edilmiştir. 
@@ -131,7 +140,6 @@ Bundan sonraki süreçte;
 
 > Ödül alan çalışmamızın sunumu buradan izleyebilirsiniz.
 
-[![](http://img.youtube.com/vi/qPfpWBgZBM8/0.jpg)](http://www.youtube.com/watch?v=qPfpWBgZBM8 "COVID-19 Türkiye Twitter Analizi")
 
 
 ## Detaylı Bilgi İçin
