@@ -1,5 +1,5 @@
 ---
-title: "Türk- Amerikan Gündem "
+title: "Türk - Amerikan Kamuoyu Gündem Araştırması"
 date: 2020-12-30T12:52:36+06:00
 image_webp: images/blog/blog-post-3.webp
 image: images/blog/blog-post-3.jpg
@@ -47,7 +47,7 @@ Modelleme aşamasında ön analizler yapılmıştır. Duygu analizi bize gelecek
 
 ## Yayınlama
 
-Proje sonunda yapılacak olan son aşamadır. 
+Projemizin çıktılarına buradan ulaşabilirsiniz
 
 
 
