@@ -128,6 +128,12 @@ Bundan sonraki süreçte;
 
 * 'Topic Modelling' gibi makine öğrenmesi metodları kullanılarak içerik hakkında farklı çalışmalar yapılabilir. 
 
+
+
+> Ödül alan çalışmamızın sunumu buradan izleyebilirsiniz.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qPfpWBgZBM8?start=2784" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Detaylı Bilgi İçin
 
 Bu veri seti hakkındaki teknik sorular ya da içeriğe dair sorularınız için aşağıdaki iletişim maillerine yazabilirsiniz.
