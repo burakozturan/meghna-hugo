@@ -1,8 +1,8 @@
 ---
-title: "Türk - Amerikan Kamuoyu Gündem Araştırması"
+title: "Krizlerde Online Bilgi Kirliliği"
 date: 2020-12-30T12:52:36+06:00
-image_webp: images/blog/blog-post-3.webp
-image: images/blog/blog-post-3.jpg
+image_webp: images/blog/boto.webp
+image: images/blog/boto.jpg
 author: Burak Özturan
 description : "This is meta description"
 ---
