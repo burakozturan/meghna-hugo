@@ -1,8 +1,8 @@
 ---
 title: "Hesaplamalı Sosyal Bilimler Yaz Okulu SICSS-ISTANBUL"
 date: 2020-12-30T12:52:36+06:00
-image_webp: sicss.webp
-image: sicss.jpg
+image_webp: images/blog/sicss.webp
+image: images/blog/sicss.jpg
 author: Yunus Emre Tapan
 description : "This is meta description"
 ---
