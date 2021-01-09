@@ -19,12 +19,12 @@ Projenin interaktif dashboardu için lütfen [tıklayın](http://tfpbarometer.co
 
 ## Bu Projenin altı aşaması vardır;
 
-* Sistem altyapısı kurulumu ve depolama
-* Veri setlerinin, raporların ve veri toplama protokollerinin belirlenmesi
-* Veri toplama ve güncelleme - ETL (Çıkar-Dönüştür-Yükle)
-* Modelleme ve Veri Görselleştirme
-* Veri Analizi ve Yorumlama
-* Yayınlama
+1. Sistem altyapısı kurulumu ve depolama
+2. Veri setlerinin, raporların ve veri toplama protokollerinin belirlenmesi
+3. Veri toplama ve güncelleme - ETL (Çıkar-Dönüştür-Yükle)
+4. Modelleme ve Veri Görselleştirme
+5. Veri Analizi ve Yorumlama
+6. Yayınlama
 
 
 >Burada şu ana kadar yaptıklarımızın bir özeti verilecektir:
