@@ -1,6 +1,6 @@
 ---
 title: "Yunus Emre Tapan"
-image: images/team/head.jpg
+image: images/team/head-2.jpg
 email: "tapanyemre@gmail.com"
 social:
   - icon : "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons

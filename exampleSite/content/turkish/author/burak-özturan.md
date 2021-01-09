@@ -1,6 +1,6 @@
 ---
 title: "Burak Özturan"
-image: images/team/team-1.jpg
+image: images/team/head-1.jpg
 email: "burak.oezturan@uni-konstanz.de"
 social:
   - icon : "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
