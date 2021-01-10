@@ -10,7 +10,7 @@ description : "This is meta description"
 
 Sosyal bot hesapların Türkiye online bilgi ekosistemindeki rolünü inceleyen bu araştırma  11 Şubat- 9 Haziran 2020 arası Covid anahtar kelimeli tweetlerin yazarlarını incelemektedir. Bot hesapların tespiti için Dr. Onur Varol'un geliştirdiği Botometer algoritması kullanılmıştır.
 
-> ## Ön sonuçlar:
+ ## Ön sonuçlar:
 
 1. 3 farklı kullanıcı türü tesbit edilmiştir: haber siteleri, bot hesaplar, normal insan kullanıcılar.
 2. Bu dönemde en çok tweet atan kullanıcıların 1% toplam tweetlerin 25% ini oluşturmaktadır.
