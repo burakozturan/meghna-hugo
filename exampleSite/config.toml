@@ -1,4 +1,4 @@
-baseURL = "https://sitemiz.netlify.com"
+baseURL = "https://socio-lab.netlify.com"
 defaultContentLanguage = "tr"
 disableLanguages = ["fr" , "en" ]
 disqusShortname = ""
