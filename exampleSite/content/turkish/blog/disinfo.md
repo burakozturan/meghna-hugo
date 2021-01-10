@@ -1,59 +1,29 @@
 ---
 title: "Krizlerde Online Bilgi Kirliliği"
 date: 2020-12-30T12:52:36+06:00
-image_webp: images/blog/boto.webp
-image: images/blog/boto.jpg
+image_webp: images/blog/disinfo.webp
+image: images/blog/disinfo.jpg
 author: Burak Özturan
 description : "This is meta description"
 ---
 
-Amerika Birleşik Devletleri German Marshall Fonu (GMF) tarafından finanse edilen bu araştırma, hem Türkçe hem de İngilizce konuşan kullanıcıların Twitter'daki kamuoyu eğilimlerini analiz etmeyi amaçlamaktadır. Özellikle yeni teknikler kullanarak, Twitter kullanıcıları arasında Türk-Amerikan ilişkilerine dair hakim görüş ve algı değişimlerini incelenmektedir.
+
+Sosyal bot hesapların Türkiye online bilgi ekosistemindeki rolünü inceleyen bu araştırma  11 Şubat- 9 Haziran 2020 arası Covid anahtar kelimeli tweetlerin yazarlarını incelemektedir. Bot hesapların tespiti için Dr. Onur Varol'un geliştirdiği Botometer algoritması kullanılmıştır.
+
+> ## Ön sonuçlar:
+
+1. 3 farklı kullanıcı türü tesbit edilmiştir: haber siteleri, bot hesaplar, normal insan kullanıcılar.
+2. Bu dönemde en çok tweet atan kullanıcıların 1% toplam tweetlerin 25% ini oluşturmaktadır.
+3. Hesapların 10% bot olarak tespit edilmiştir.
 
 
+## Gelecek Çalışmalar:
 
-Projenin interaktif dashboardu için lütfen [tıklayın](http://tfpbarometer.com/interactive-dashboard/)
-
-
-
-
-
-## Bu Projenin altı aşaması vardır;
-
-1. Sistem altyapısı kurulumu ve depolama
-2. Veri setlerinin, raporların ve veri toplama protokollerinin belirlenmesi
-3. Veri toplama ve güncelleme - ETL (Çıkar-Dönüştür-Yükle)
-4. Modelleme ve Veri Görselleştirme
-5. Veri Analizi ve Yorumlama
-6. Yayınlama
-
-
->Burada şu ana kadar yaptıklarımızın bir özeti verilecektir:
-
-## Sistem altyapısı kurulumu ve depolama
-
-Öncelikle Twitter'dan alınan verilerin depolanması için Amazon Web Servisleri kullanıldı. Veriler, ilgili bilimsel ve etik standartlara uygun olarak anonim olarak saklanmıştır. Verilerin sürekli olarak beslenmesi ve verilerde güncel tutulması amaçlanırken, bugüne kadar sadece ayrık veri toplama sağlandı.
-
-## Veri setlerinin, raporların ve veri toplama protokollerinin belirlenmesi
-
-Twitter'daki elit kamuoyunu ölçmek için 1411 gerçek twitter hesabı tespit edildi. Hedeflenen twitter kullanıcılarını belirlemek için bu projeye özel yeni bir twitter hesabı oluşturulmuştur. Twitter kullanıcıları milliyetleri, meslekleri, cinsiyetleri, tartışma konuları ve kullanıcı türlerine göre sınıflandırıldı. Milliyetler için Türk, Amerikan ve diğerleri üç seçenektir. İşgal için siyasetçiler, akademisyenler, diplomat, gazeteci ve serbest çalışanlar kümelenme süreci için belirlendi. Tartışma konuları Türk Dış Politikası, Amerikan Dış Politikası ve Uluslararası İlişkiler olmak üzere üç ana başlıktır. Kullanıcı tipine göre kullanıcılar bireysel ve kurumsal hesap olarak sınıflandırılmıştır. Ayrıca konu ile ilgili olarak hem Türkçe hem de İngilizce dilleri için yaklaşık yüz kelimelik bir liste belirlenmiştir. Bu liste, veri kümemizi filtrelememize ve daraltmamıza yardımcı oldu. Nihai olarak üç farklı tweet veri dosyası elde ettik. Birincisi filtresiz, ikincisi yukarıda belirtilen listedeki kelimeleri içeren tweetler  ve üçüncüsü sadece Türk ve Amerikan kelimelerini içeren filtreli tweetler. Bu sınıflandırma, ana veri setimizdeki üç farklı alt grubu karşılaştırmamıza yardımcı oldu.
-
-
-## Veri toplama ve güncelleme - ETL (Çıkar-Dönüştür-Yükle)
-
-Bu çalışma belirli aralıklara tekrarlanıp kamuoyundaki değişiklikler tesbit edilecektir.
-
-## Modelleme ve Veri Görselleştirme
-
-Veri modellemesi  denetimli öğrenme yöntemi olarak (supervised learning) duyarlılık analizi, denetimsiz bir öğrenme yöntemi (unsupervised learning) olarak konu modellemesi ve istatistiksel bir çıktı olarak metin frekans analizi  yapılarak gerçekleştirildi.
-
-## Veri toplama ve güncelleme - ETL (Çıkar-Dönüştür-Yükle)
-
-Modelleme aşamasında ön analizler yapılmıştır. Duygu analizi bize gelecekte odaklanmamız gereken önemli tarihleri belirlemeizde yardımcı oldu. Konu modelleme (topic modelling) bize ana tartışma konularını verdi. Frekans analizi ayrıca bize ana isimler, konularda tartışılan konuları belirlemize yardımcı oldu.
-
-## Yayınlama
-
-Projemizin çıktılarına buradan ulaşabilirsiniz
+Farklı kullanıcı tiplerinin değişen gündemlerini takip edip, COVID-19 hakkkındaki kamuoyunu olumsuz bir şekilde etkileyip etkilemediklerini incelemek bu çalışmanın sıradaki amacı olacaktır. Bu sayede, kriz anlarındaki bilgi kirliliği pratikleri anlaşılıp kriz anlarında bilgi kirliliğini önlemek için politika tavsiyeleri hedeflenecektir.
 
 
 
 
+Aşağıdaki fotoğrafta botometer sonuçlarının grafiğini bulabilirsiniz.
+
+![COVID2](/images/blog/boto.jpg)
