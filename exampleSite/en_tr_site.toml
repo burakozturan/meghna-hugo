@@ -17,22 +17,22 @@ languageName = "Türkçe"
 weight = "2"
 [[Languages.tr.menu.main]]
 name = "Hakkımızda"
-pre = "#"
+pre = "tr/#"
 url = "about"
 weight = 1
 [[Languages.tr.menu.main]]
 name = "Ekibimiz"
-pre = "#"
+pre = "tr/#"
 url = "team"
 weight = "2"
 [[Languages.tr.menu.main]]
 name = "Çalışmalarımız"
-pre = "#"
+pre = "tr/#"
 url = "blog"
 weight = "3"
 [[Languages.tr.menu.main]]
 name = "İletişim"
-pre = "#"
+pre = "tr/#"
 url = "contact"
 weight = "4"
 
