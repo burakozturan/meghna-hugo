@@ -12,11 +12,12 @@ team:
         
         Veri Bilimi Master  
             
-        Araştırma Alanı  
-        Online bilgi kirliliği ve önlenmesi.  
+        Araştırma Alanı:  
+          Online bilgi kirliliği ve önlenmesi.  
             
-        Metodik Uzmanlık 
-        Makine öğrenmesi, metin analizi, network analizi.
+        Metodik Uzmanlık: 
+          
+          Makine öğrenmesi, metin analizi, network analizi.
       
       social :
         - icon: ti-dribbble
@@ -35,7 +36,7 @@ team:
       designation : Kurucu Ortak
       content : |+ 
         
-        Uluslararası İlişkiler Doktora Adayı. 
+        Uluslararası İlişkiler 
         
         Araştırma Alanı:  
           Çevrimiçi aşırılıkçı gruplar. 
