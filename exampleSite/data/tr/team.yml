@@ -8,7 +8,7 @@ team:
       image_webp : images/team/team-1.webp
       image : images/team/team-1.jpg
       designation : Kurucu Ortak
-      content : |+ 
+      content : 
       
         Veri Bilimi Master  
             
@@ -19,7 +19,7 @@ team:
         Makine öğrenmesi, metin analizi, network analizi.
       
       
-    social :
+      social :
         - icon: ti-dribbble
           link: /tr/author/burak-özturan/ #turkce icin bu,  #bu da ingilizce  icin/author/burak-özturan/ 
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
