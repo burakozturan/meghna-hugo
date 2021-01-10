@@ -7,7 +7,7 @@ author: Burak Özturan
 description : "This is meta description"
 ---
 
-Amerika Birleşik Devletleri German Marshall Fonu (GMF) tarafından finanse edilen bu araştırma, hem Türkçe hem de İngilizce konuşan kullanıcıların Twitter'daki kamuoyu eğilimlerini analiz etmeyi amaçlamaktadır. Özellikle yeni teknikler kullanarak, Twitter kullanıcıları arasında Türk-Amerikan ilişkilerine dair hakim görüş ve algı değişimlerini incelenmektedir.
+Amerika Birleşik Devletleri German Marshall Fonu (GMF) tarafından finanse edilen bu araştırma, Türkçe ve İngilizce konuşan kullanıcıların Twitter'daki kamuoyu eğilimlerini analiz etmeyi amaçlamaktadır. Özellikle yeni teknikler kullanarak, Twitter kullanıcıları arasında Türk-Amerikan ilişkilerine dair hakim görüş ve algı değişimlerini incelenmektedir.
 
 
 
