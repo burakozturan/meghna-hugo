@@ -1,5 +1,5 @@
 ---
-title: "COVID-19 Pandemisi Sürecinde Türkiye Twitter Analizi"
+title: Milletvekilleri Network Analizi 
 date: 2020-06-20T14:51:12+06:00
 image_webp: images/blog/mv.webp
 image: images/blog/mv.jpg
