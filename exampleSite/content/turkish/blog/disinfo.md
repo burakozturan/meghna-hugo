@@ -1,5 +1,5 @@
 ---
-title: "Krizlerde Online Bilgi Kirliliği"
+title: "COVID-19 Kriz Online Bilgi Kirliliği"
 date: 2020-12-30T12:52:36+06:00
 image_webp: images/blog/disinfo.webp
 image: images/blog/disinfo.jpg
