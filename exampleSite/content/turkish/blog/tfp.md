@@ -1,6 +1,6 @@
 ---
 title: "Türk - Amerikan Kamuoyu Gündem Araştırması"
-date: 2020-12-30T12:52:36+06:00
+date: 2021-01-10T12:52:36+06:00
 image_webp: images/blog/blog-post-3.webp
 image: images/blog/blog-post-3.jpg
 author: Burak Özturan

@@ -10,12 +10,13 @@ team:
       designation : Kurucu Ortak
       content : |+ 
         
-        Veri Bilimi Master  
+        Veri Bilimi  
             
-        Araştırma Alanı:  
+        Araştırma Alanı  
+          
           Online bilgi kirliliği ve önlenmesi.  
             
-        Metodik Uzmanlık: 
+        Metodik Uzmanlık
           
           Makine öğrenmesi, metin analizi, network analizi.
       
@@ -38,11 +39,13 @@ team:
         
         Uluslararası İlişkiler 
         
-        Araştırma Alanı:  
+        Araştırma Alanı  
+
           Çevrimiçi aşırılıkçı gruplar. 
           
-        Metodik Uzmanlık: 
-        Network analizi, metin analizi, araştırma dizaynı.
+        Metodik Uzmanlık
+
+          Network analizi, metin analizi, araştırma dizaynı.
       
       social :
         - icon: ti-dribbble
