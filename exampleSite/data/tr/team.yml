@@ -12,7 +12,9 @@ team:
       designation : Kurucu Ortak
       content : |+ 
             Veri Bilimi Master öğrencisi. 
+            
             Araştırma Alanı:  Online bilgi kirliliği ve önlenmesi.  
+            
             Metodik Uzmanlık: Makine öğrenmesi, metin analizi, network analizi.
       social :
         - icon: ti-dribbble
