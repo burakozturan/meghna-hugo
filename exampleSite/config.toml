@@ -6,7 +6,7 @@ paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
-title = "SosyaLab"
+title = "SosyoLab"
 [Languages.tr]
 contentDir = "content/turkish"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
