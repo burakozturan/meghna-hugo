@@ -8,8 +8,8 @@ team:
       image_webp : images/team/team-1.webp
       image : images/team/team-1.jpg
       designation : Kurucu Ortak
-      content : 
-      
+      content : |+ 
+        
         Veri Bilimi Master  
             
         Araştırma Alanı  
@@ -17,7 +17,6 @@ team:
             
         Metodik Uzmanlık 
         Makine öğrenmesi, metin analizi, network analizi.
-      
       
       social :
         - icon: ti-dribbble
@@ -38,10 +37,10 @@ team:
         
         Uluslararası İlişkiler Doktora Adayı. 
         
-        Araştırma Alanı  
+        Araştırma Alanı:  
           Çevrimiçi aşırılıkçı gruplar. 
           
-        Metodik Uzmanlık 
+        Metodik Uzmanlık: 
         Network analizi, metin analizi, araştırma dizaynı.
       
       social :
@@ -51,3 +50,5 @@ team:
           link : "https://twitter.com/YEmreTapan"
         - icon : ti-github
           link : "https://github.com/tapanyemre"
+
+
