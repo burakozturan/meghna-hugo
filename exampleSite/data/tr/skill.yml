@@ -6,6 +6,10 @@ skill:
   content : Literatürü yakından takip edip çıkan son gelişmeler ışığında kendimizi güncelleyip araştırmalarımızın güncel kalmasına azami gayret gösteriyoruz
   image : images/about/company-growth.webp
   skill_item :
+
+    # skill item loop
+    - name :  Sosyal Medya Gündem Analizi
+      percent : 100%
     # skill item loop
     - name :  Doğal Dil İşleme 
       percent : 95%
@@ -13,10 +17,7 @@ skill:
     # skill item loop
     - name :  Sosyal Ağ Analizi
       percent : 80%
-    # skill item loop
-    - name :  Sosyal Medya Gündem Analizi
-      percent : 90%
-      
+    
     # skill item loop
     - name :  Makine Öğrenmesi
       percent : 70%
