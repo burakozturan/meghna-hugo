@@ -10,11 +10,7 @@ team:
       image_webp : images/team/team-1.webp
       image : images/team/team-1.jpg
       designation : Kurucu Ortak
-      content : 
-      
-        - Veri Bilimi Master öğrencisi.     
-        - Akademik alan  Online bilgi kirliliği ve önlenmesi. 
-        - Metodik Uzmanlık Makine öğrenmesi, metin analizi, network analizi.
+      content : Veri Bilimi Master öğrencisi. Akademik alan  Online bilgi kirliliği ve önlenmesi.  Metodik Uzmanlık Makine öğrenmesi, metin analizi, network analizi.
       social :
         - icon: ti-dribbble
           link: /tr/author/burak-özturan/ #turkce icin bu,  #bu da ingilizce  icin/author/burak-özturan/ 
