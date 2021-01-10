@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Veriden Anlam Çıkartıyoruz"
-  content : "Sosyal verileri bilimsel literatür ışığında ve gelişmiş metodlarla  işleyip güncel akademik ve endüstriyela sorulara cevap bulmaya çalışıyoruz!"
+  content : "Sosyal verileri bilimsel literatür ışığında ve gelişmiş metodlarla  işleyip güncel akademik ve endüstriyel sorulara cevap bulmaya çalışıyoruz!"
   button:
     enable : true
     label : "Bizi Keşfedin"

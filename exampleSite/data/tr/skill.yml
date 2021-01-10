@@ -3,24 +3,25 @@ skill:
   enable : true
   title : Uzmanlıklarımız
   subtitle : Biz akademik titizlikle veriden anlam çıkartıyoruz.
-  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+  content : Literatürü yakından takip edip çıkan son gelişmeler ışığında kendimizi güncelleyip araştırmalarımızın güncel kalmasına azami gayret gösteriyoruz
   image : images/about/company-growth.webp
   skill_item :
     # skill item loop
-    - name :  Gündem Analizi
+
+    - name :  Doğal Dil İşleme 
+      percent : 95%
+
+          # skill item loop
+    - name :  Sosyal Ağ Analizi
+      percent : 80%
+
+     - name :  Sosyal Medya Gündem Analizi
       percent : 90%
       
     # skill item loop
-    - name :  Veri Görselleştirme
+    - name :  Makine Öğrenmesi
       percent : 70%
       
     # skill item loop
-    - name :  Sosyal Ağ Analizi
-      percent : 80%
-      
-    - name :  Doğal Dil İşleme 
-      percent : 95%
-      
-    # skill item loop
-    - name :  Metin Analizi
+    - name :  Veri Görselleştirme
       percent : 75%
