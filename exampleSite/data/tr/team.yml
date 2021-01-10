@@ -22,7 +22,7 @@ team:
       
       social :
         - icon: ti-dribbble
-          link: /tr/author/burak-özturan/ #turkce icin bu,  #bu da ingilizce  icin/author/burak-özturan/ 
+          link: /author/burak-özturan/ # /tr/author/burak-özturan/ turkce icin bu,  #bu da ingilizce  icin/author/burak-özturan/ 
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
           link : "https://twitter.com/burakozturan"
         - icon : ti-github
@@ -49,7 +49,7 @@ team:
       
       social :
         - icon: ti-dribbble
-          link: /tr/author/yunus-emre-tapan/      
+          link: /author/yunus-emre-tapan/      
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
           link : "https://twitter.com/YEmreTapan"
         - icon : ti-github
