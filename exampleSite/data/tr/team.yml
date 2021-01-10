@@ -4,23 +4,22 @@ team:
   title : Ekibimiz
   team_member :
     # team member loop
-
-
     - name : Burak Özturan
       image_webp : images/team/team-1.webp
       image : images/team/team-1.jpg
       designation : Kurucu Ortak
       content : |+ 
-            
+      
         Veri Bilimi Master  
             
         Araştırma Alanı  
-          Online bilgi kirliliği ve önlenmesi.  
+        Online bilgi kirliliği ve önlenmesi.  
             
         Metodik Uzmanlık 
-          Makine öğrenmesi, metin analizi, network analizi.
+        Makine öğrenmesi, metin analizi, network analizi.
       
-      social :
+      
+    social :
         - icon: ti-dribbble
           link: /tr/author/burak-özturan/ #turkce icin bu,  #bu da ingilizce  icin/author/burak-özturan/ 
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
