@@ -1,44 +1,12 @@
-baseURL = "https://sitemiz.netlify.com"
+baseURL = "https://sosyolab.netlify.com"
 defaultContentLanguage = "tr"
-disableLanguages = ["fr" , "en" ]
+disableLanguages = ["fr", "en"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
-title = "SosyaLab"
-[Languages.tr]
-contentDir = "content/turkish"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-dataDir = ""
-home = "Anasayfa"
-languageCode = "tr"
-languageName = "Türkçe"
-weight = "2"
-[[Languages.tr.menu.main]]
-name = "Hakkımızda"
-pre = "tr/#"
-url = "about"
-weight = 1
-[[Languages.tr.menu.main]]
-name = "Ekibimiz"
-pre = "tr/#"
-url = "team"
-weight = "2"
-[[Languages.tr.menu.main]]
-name = "Çalışmalarımız"
-pre = "tr/#"
-url = "blog"
-weight = "3"
-[[Languages.tr.menu.main]]
-name = "İletişim"
-pre = "tr/#"
-url = "contact"
-weight = "4"
-
-
-
-
+title = "SosyoLab"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
@@ -128,7 +96,34 @@ name = "themefisher"
 pre = ""
 url = "https://themefisher.com/"
 weight = 8
-
+[Languages.tr]
+contentDir = "content/turkish"
+copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+dataDir = ""
+home = "Anasayfa"
+languageCode = "tr"
+languageName = "Türkçe"
+weight = "2"
+[[Languages.tr.menu.main]]
+name = "Hakkımızda"
+pre = "tr/#"
+url = "about"
+weight = 1
+[[Languages.tr.menu.main]]
+name = "Ekibimiz"
+pre = "tr/#"
+url = "team"
+weight = "2"
+[[Languages.tr.menu.main]]
+name = "Çalışmalarımız"
+pre = "tr/#"
+url = "blog"
+weight = "3"
+[[Languages.tr.menu.main]]
+name = "İletişim"
+pre = "tr/#"
+url = "contact"
+weight = "4"
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
