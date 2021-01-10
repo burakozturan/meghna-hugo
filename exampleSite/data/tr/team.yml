@@ -30,7 +30,7 @@ team:
       image_webp : images/team/team-2.webp
       image : images/team/team-2.jpg
       designation : Kurucu Ortak
-      content : "Uluslararası ilişkiler Doktora adayı. | Akademik alan :Çevrimiçi aşırılıkçı gruplar. | Metodik Uzmanlık Network analizi, metin analizi, araştırma dizaynı."
+      content : Uluslararası ilişkiler Doktora adayı. | Akademik alan :Çevrimiçi aşırılıkçı gruplar. | Metodik Uzmanlık Network analizi, metin analizi, araştırma dizaynı.
       
       social :
         - icon: ti-dribbble
