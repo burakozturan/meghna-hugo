@@ -1,6 +1,6 @@
 ---
 title: "COVID-19 Krizinde Online Bilgi Kirliliği"
-date: 2020-12-30T12:52:36+06:00
+date: 2020-06-20T12:52:36+06:00
 image_webp: images/blog/disinfo.webp
 image: images/blog/disinfo.jpg
 author: Burak Özturan

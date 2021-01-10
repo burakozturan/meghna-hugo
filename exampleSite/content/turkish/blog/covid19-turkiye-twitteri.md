@@ -1,6 +1,6 @@
 ---
 title: "Pandemi Sürecinde Türkiye Twitter Analizi"
-date: 2020-06-20T14:51:12+06:00
+date: 2020-12-30T14:51:12+06:00
 image_webp: images/blog/blog-post-1.webp
 image: images/blog/blog-post-1.jpg
 author: Burak Özturan
