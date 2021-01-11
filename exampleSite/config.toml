@@ -131,7 +131,7 @@ weight = 8
 
 [params]
 author = "Socio-Lab"
-description = "Online Sosyal Araştırma Laboratuvar"
+description = "Hesaplamalı Sosyal Bilimler Araştırma Laboratuvarı"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
